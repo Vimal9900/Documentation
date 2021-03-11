@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
      <loc>https://vimal/</loc>
-     <lastmod>2021-03-10</lastmod>
+     <lastmod>2021-03-11</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://vimal/Intro/</loc>
-     <lastmod>2021-03-10</lastmod>
+     <lastmod>2021-03-11</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://vimal/Implement/</loc>
-     <lastmod>2021-03-10</lastmod>
+     <lastmod>2021-03-11</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://vimal/graph/</loc>
-     <lastmod>2021-03-10</lastmod>
+     <lastmod>2021-03-11</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://vimal/task5/</loc>
-     <lastmod>2021-03-10</lastmod>
+     <lastmod>2021-03-11</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://vimal/ros_iot/</loc>
-     <lastmod>2021-03-10</lastmod>
+     <lastmod>2021-03-11</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://vimal/msg/</loc>
-     <lastmod>2021-03-10</lastmod>
+     <lastmod>2021-03-11</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://vimal/yaml/</loc>
-     <lastmod>2021-03-10</lastmod>
+     <lastmod>2021-03-11</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://vimal/config/</loc>
-     <lastmod>2021-03-10</lastmod>
+     <lastmod>2021-03-11</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://vimal/reference/</loc>
-     <lastmod>2021-03-10</lastmod>
+     <lastmod>2021-03-11</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
